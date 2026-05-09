@@ -12,3 +12,4 @@ gelecege daha umutla bakmak
 dua
 spekülasyon
 sacma manifest
+guild
