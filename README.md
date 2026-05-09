@@ -17,3 +17,4 @@ tekrar gelis
 50 build
 actual trader
 translate
+guild role
