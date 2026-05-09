@@ -23,3 +23,4 @@ x creator
 farcaster creator
 liverpool
 cristiano ronaldo
+manchester
