@@ -18,3 +18,4 @@ tekrar gelis
 actual trader
 translate
 guild role
+discord role
