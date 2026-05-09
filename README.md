@@ -41,3 +41,4 @@ i love youuuu base
 base first crypto exchange 
 daha fazla insa et
 solidity
+ethereum
