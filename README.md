@@ -16,3 +16,4 @@ guild
 tekrar gelis
 50 build
 actual trader
+translate
