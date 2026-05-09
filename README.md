@@ -13,3 +13,4 @@ dua
 spekülasyon
 sacma manifest
 guild
+tekrar gelis
