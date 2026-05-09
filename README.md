@@ -38,3 +38,4 @@ base and faecaster
 base for builder
 base for farcaster
 i love youuuu base
+base first crypto exchange 
