@@ -15,3 +15,4 @@ sacma manifest
 guild
 tekrar gelis
 50 build
+actual trader
