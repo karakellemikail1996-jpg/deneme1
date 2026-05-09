@@ -43,3 +43,4 @@ daha fazla insa et
 solidity
 ethereum
 base l2
+artifical intelligence
