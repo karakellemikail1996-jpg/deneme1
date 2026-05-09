@@ -20,3 +20,4 @@ translate
 guild role
 discord role
 x creator
+farcaster creator
