@@ -44,3 +44,4 @@ solidity
 ethereum
 base l2
 artifical intelligence
+artifical base
