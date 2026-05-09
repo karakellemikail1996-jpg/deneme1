@@ -24,3 +24,4 @@ farcaster creator
 liverpool
 cristiano ronaldo
 manchester
+crypto build
