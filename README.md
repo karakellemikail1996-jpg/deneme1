@@ -27,3 +27,4 @@ manchester
 crypto build
 satoshi nakamoto
 adam smit
+merkantalizm
