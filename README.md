@@ -42,3 +42,4 @@ base first crypto exchange
 daha fazla insa et
 solidity
 ethereum
+base l2
